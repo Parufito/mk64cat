@@ -1,8 +1,6 @@
 name: Linux Compile test
 
 on:
-    push:
-      branches: [ "*" ]
     pull_request:
       branches: [ "master" ]
 
