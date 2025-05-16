@@ -70,7 +70,7 @@ expected/*
 /bin/*
 /modding/*
 /courses/**/*linkonly*
-/textures/**/*.png
+!/textures/**/*.png
 /textures/**/*.bin
 /assets/**/.export
 /assets/**/*.bin
